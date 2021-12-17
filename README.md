@@ -1,6 +1,6 @@
 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Mohan REN
 ========
-- An AI🧠 student in the University of Manchester🏫, and will gradute in 2024
+- An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2024
 - Enjoy coding with python🐍, but can do code with Java, C, C++, PHP as well
 - Hope to learn more about the quantitative trading📖
 - Enjoy music🎵, and can fluently play some instruments like piano🎹, guitar🎸 and ukulele
@@ -11,7 +11,8 @@
 -------------
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-%23333333?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-%23333333?style=flat-square&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-%23EC4A3F?style=flat-square&logo=c&logoColor=ffffff)
 ![Haskell](https://img.shields.io/badge/-Haskell-%231a202c?style=flat-square&logo=haskell)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -32,4 +33,4 @@
 𝗦𝘁𝗮𝘁𝘀
 ----
 
-![MorganREN's github stats](https://github-readme-stats.vercel.app/api?username=MorganREN&show_icons=true&theme=dracula)
+![MorganREN's github stats](https://github-readme-stats.vercel.app/api?username=MorganREN&show_icons=true&theme=apprentice)
