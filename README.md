@@ -2,7 +2,9 @@
 ========
 [![](https://img.shields.io/badge/-@MorganREN-%23181717?style=flat-square&logo=github)](https://github.com/MorganREN)
 [![](https://img.shields.io/badge/-@MohanRen-%23181717?style=flat-square&logo=gitlab)](https://gitlab.cs.man.ac.uk/m33394mr)
-[![](https://img.shields.io/badge/-ID:Ren_Mohan-%23181717?style=flat-square&logo=wechat)]()
+[![](https://img.shields.io/badge/-ID:Ren_Mohan-%23181717?style=flat-square&logo=wechat)](https://github.com/MorganREN/MorganREN/blob/master/images/wechat.jpeg)
+[![](https://img.shields.io/badge/-@mohanren-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/mohanren/)
+[![](https://img.shields.io/badge/-@Email:MOHANREN@outlook.com-%23181717?style=flat-square&logo=microsoft-outlook)]()
 
 - An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2024
 - Enjoy coding with python🐍, but can do code with Java, C, C++, PHP as well
