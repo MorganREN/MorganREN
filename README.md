@@ -1,5 +1,9 @@
 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Mohan REN
 ========
+[![](https://img.shields.io/badge/-@MorganREN-%23181717?style=flat-square&logo=github)](https://github.com/MorganREN)
+[![](https://img.shields.io/badge/-@MohanRen-%23181717?style=flat-square&logo=gitlab)](https://gitlab.cs.man.ac.uk/m33394mr)
+[![](https://img.shields.io/badge/-ID:Ren_Mohan-%23181717?style=flat-square&logo=wechat)]()
+
 - An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2024
 - Enjoy coding with python🐍, but can do code with Java, C, C++, PHP as well
 - Hope to learn more about the quantitative trading📖
@@ -22,11 +26,12 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Github](https://img.shields.io/badge/-Github-FCA121?style=flat-square&logo=github)
-
+![Anaconda](https://img.shields.io/badge/-Anaconda-%23000000?style=flat-square&logo=anaconda&&logoColor=48B0F1)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-%2300C7B7?style=flat-square&logo=pycharm&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-%234B32C3?style=flat-square&logo=eclipse)
+![Jupyter](https://img.shields.io/badge/-JupyterNotebook-%2300C7B7?style=flat-square&logo=jupyter&logoColor=ffffff)
 
 `Just because we can't see the path doesn't mean it's not there.`
 
