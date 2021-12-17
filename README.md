@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/-ID:Ren_Mohan-%23181717?style=flat-square&logo=wechat)](https://github.com/MorganREN/MorganREN/blob/master/images/wechat.jpeg)
 [![](https://img.shields.io/badge/-@mohanren-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/mohanren/)
 [![](https://img.shields.io/badge/-@Email:MOHANREN@outlook.com-%23181717?style=flat-square&logo=microsoft-outlook)]()
+[![](https://img.shields.io/badge/-@再看就吃了-%23181717?style=flat-square&logo=bilibili)](https://space.bilibili.com/33095332)
 
 - An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2024
 - Enjoy coding with python🐍, but can do code with Java, C, C++, PHP as well
