@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/-@Mohan_REN-%23181717?style=flat-square&logo=kaggle)](https://www.kaggle.com/mohanren)
 
 
-- An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2024
+- An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2023
 - Enjoy coding with python🐍, but can do code with Java, C, C++, PHP as well
 - Hope to learn more about the quantitative trading📖
 - Enjoy music🎵, and can fluently play some instruments like piano🎹, guitar🎸 and ukulele
