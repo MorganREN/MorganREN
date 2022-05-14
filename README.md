@@ -13,6 +13,7 @@
 
 - An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2023
 - Enjoy coding with python🐍, but can do code with Java, C, C++, PHP as well
+- Currently working with professor Anirbit Mukherjee to explore the mysteries mathematics in neural network
 - Hope to learn more about the quantitative trading📖
 - Enjoy music🎵, and can fluently play some instruments like piano🎹, guitar🎸 and ukulele
 - R&B style music fans🔥🔥🔥
