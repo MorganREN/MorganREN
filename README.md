@@ -25,11 +25,12 @@
 ![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-%23333333?style=flat-square&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-%23EC4A3F?style=flat-square&logo=c&logoColor=ffffff)
-![Haskell](https://img.shields.io/badge/-Haskell-%231a202c?style=flat-square&logo=haskell)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23CC6699?style=flat-square&logo=mysql&logoColor=ffffff)
+![Solidity](https://img.shields.io/badge/-Solidity-%231a202c?style=flat-square&logo=solidity)
+![Haskell](https://img.shields.io/badge/-Haskell-%231a202c?style=flat-square&logo=haskell)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
