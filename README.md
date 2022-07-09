@@ -42,6 +42,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-%234B32C3?style=flat-square&logo=eclipse)
 ![Jupyter](https://img.shields.io/badge/-JupyterNotebook-%2300C7B7?style=flat-square&logo=jupyter&logoColor=ffffff)
 
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23F05032?style=flat-square&logo=pytorch&logoColor=%23ffffff)
+
 `Just because we can't see the path doesn't mean it's not there.`
 
 𝗦𝘁𝗮𝘁𝘀
