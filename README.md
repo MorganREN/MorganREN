@@ -45,7 +45,7 @@
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%23F05032?style=flat-square&logo=pytorch&logoColor=%23ffffff)
 
-`Just because we can't see the path doesn't mean it's not there.`
+`Be brave! We will not be younger than today.`
 
 𝗦𝘁𝗮𝘁𝘀
 ----
