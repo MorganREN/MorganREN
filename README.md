@@ -11,11 +11,13 @@
 [![](https://img.shields.io/badge/-@Mohan_REN-%23181717?style=flat-square&logo=kaggle)](https://www.kaggle.com/mohanren)
 
 
-- An AI🧠 student in the University of Manchester🏫, and will gradute🎓 in 2023
+- A FinTech🧑‍💻 master's student at University College London, and will graduate🎓 in 2024 fall
+- An AI🧠 bachelor's student at the University of Manchester🏫, and have graduated🎓 in 2023 summer
 - Enjoy coding with python🐍, but can do code with Java, C, C++, PHP as well
-- Third year project: Solving Differential Equations Using Neural Network
-- Currently working with professor Anirbit Mukherjee to explore the mysteries mathematics in neural network
-- Hope to learn more about the quantitative trading📖
+- Master research project: AI for the Causality Relationship among Time Series in Complex Systems including Stochastic Process
+- Bachelor third-year project: Solving Differential Equations Using Neural Network
+- Once worked with professor Anirbit Mukherjee to explore the mysteries of mathematics in neural network
+- Hope to learn more about quantitative trading📈, machine learning and the frontier of deep learning
 - Enjoy music🎵, and can fluently play some instruments like piano🎹, guitar🎸 and ukulele
 - R&B style music fans🔥🔥🔥
 
