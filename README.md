@@ -1,6 +1,6 @@
 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Mohan REN
 ========
-[![](https://img.shields.io/badge/-@爱幻想的Ren-%23181717?style=flat-square&logo=)](https://fantasy-ren.tech/))
+[![](https://img.shields.io/badge/-@爱幻想的Ren-%23181717?style=flat-square&logo=)](https://fantasy-ren.tech/)
 [![](https://img.shields.io/badge/-@MorganREN-%23181717?style=flat-square&logo=github)](https://github.com/MorganREN)
 [![](https://img.shields.io/badge/-@MohanRen-%23181717?style=flat-square&logo=gitlab)](https://gitlab.cs.man.ac.uk/m33394mr)
 [![](https://img.shields.io/badge/-ID:Ren_Mohan-%23181717?style=flat-square&logo=wechat)](https://github.com/MorganREN/MorganREN/blob/master/images/wechat.jpeg)
